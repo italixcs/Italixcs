@@ -1,25 +1,44 @@
-<p align="center"><img src="./assets/mountains.jpg" width="100%" alt="A quiet mountain landscape in muted blue-grey tones"></p>
+<p align="center">
+  <img src="assets/mountains.jpg" alt="A mountain ridge beneath a cloudy sky" width="100%" />
+</p>
 
-<h1 align="center">italixcs</h1>
+# italixcs
 
-<p align="center"><strong>Developer.</strong></p>
-<p align="center">Building, creating, and contributing skills and tools<br>for frontier AI models.</p>
+**Developer building skills and tools for frontier AI models.**
 
-<h2>AI &amp; development</h2>
-<p align="center"><img src="./assets/badge-chatgpt.svg" height="36" alt="ChatGPT">
-<img src="./assets/badge-codex.svg" height="36" alt="Codex">
-<img src="./assets/badge-github.svg" height="36" alt="GitHub"></p>
+I’m focused on reusable agent skills, project memory, and workflows for writing and study. I want to build useful tools, document how they work, and keep improving them in public.
 
-<h3 align="center">Toolbox</h3>
-<p align="center"><img src="./assets/tech/python-dark.svg" width="48" height="48" alt="Python" title="Python">
-<img src="./assets/tech/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript">
-<img src="./assets/tech/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">
-<img src="./assets/tech/git.svg" width="48" height="48" alt="Git" title="Git">
-<img src="./assets/tech/github-dark.svg" width="48" height="48" alt="GitHub" title="GitHub">
-<img src="./assets/tech/markdown-dark.svg" width="48" height="48" alt="Markdown" title="Markdown"></p>
+## Currently building
 
-<h2>Current focus</h2>
-<table><tr><td width="50%" valign="top"><img src="./assets/focus-skills.svg" width="28" height="28" alt="">&nbsp; <strong>Agent skills</strong><br><br>Reusable instructions for practical AI workflows.</td><td width="50%" valign="top"><img src="./assets/focus-memory.svg" width="28" height="28" alt="">&nbsp; <strong>Project memory</strong><br><br>Context that helps agents pick up where they left off.</td></tr><tr><td width="50%" valign="top"><img src="./assets/focus-writing.svg" width="28" height="28" alt="">&nbsp; <strong>Writing &amp; study</strong><br><br>Tools for clearer writing and structured learning.</td><td width="50%" valign="top"><img src="./assets/focus-tools.svg" width="28" height="28" alt="">&nbsp; <strong>Developer tools</strong><br><br>Small utilities that make building easier.</td></tr></table>
+### [Repo Cleaner](https://github.com/italixcs/Repo-cleaner)
 
-<h2>GitHub activity</h2>
-<p align="center"><a href="https://github.com/italixcs?tab=overview"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg"><img src="./assets/activity-dark.svg" width="840" height="126" alt="italixcs on GitHub — view code, commits and contributions"></picture></a></p>
+A skill that helps AI agents improve how a GitHub repository presents its work: the README, examples, installation guides, visuals, and repository metadata.
+
+[![Format: Agent Skills](assets/badges/repo-cleaner-format.svg)](https://github.com/italixcs/Repo-cleaner/tree/main/skills/repo-cleaner)
+[![Release: v0.2.0](assets/badges/repo-cleaner-release.svg)](https://github.com/italixcs/Repo-cleaner/releases/tag/v0.2.0)
+[![License: MIT](assets/badges/repo-cleaner-license.svg)](https://github.com/italixcs/Repo-cleaner/blob/main/LICENSE)
+
+It checks claims against the project’s files, flags gaps, and organizes the README around what a reader needs to understand and try the project. You can ask for an audit first or have it implement the changes.
+
+[Repository](https://github.com/italixcs/Repo-cleaner) · [Installation](https://github.com/italixcs/Repo-cleaner/blob/main/docs/installation.md) · [Usage](https://github.com/italixcs/Repo-cleaner/blob/main/docs/usage.md) · [Latest release](https://github.com/italixcs/Repo-cleaner/releases/latest)
+
+<details>
+<summary>See Repo Cleaner in practice</summary>
+
+In an audit of a synthetic notes-app fixture, Repo Cleaner found an installation command missing from the manifest, unsupported coverage and agent-support badges, and topics that did not match the source.
+
+<p>
+  <a href="https://github.com/italixcs/Repo-cleaner/blob/main/docs/examples/notes-app-audit.md">
+    <img src="assets/examples/repo-cleaner-audit.png" alt="Repo Cleaner audit output identifying a missing start script, unsupported badge claims, and unrelated topics" width="520" />
+  </a>
+</p>
+
+*Condensed audit output, rendered locally. This was an audit only; no files or settings were changed.*
+
+[Read the input and findings](https://github.com/italixcs/Repo-cleaner/blob/main/docs/examples/notes-app-audit.md) · [Validation record](https://github.com/italixcs/Repo-cleaner/blob/main/docs/validation.md)
+
+</details>
+
+---
+
+[All repositories](https://github.com/italixcs?tab=repositories) · [GitHub activity](https://github.com/italixcs?tab=overview)
