@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mountains.jpg" alt="A mountain ridge beneath a cloudy sky" width="100%" />
+  <img src="assets/banner.png" alt="italixcs — skills and tools for AI agents, including Repo Cleaner, project memory, and writing workflows" width="100%" />
 </p>
 
 # italixcs
