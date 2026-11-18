@@ -53,6 +53,10 @@ A Fabric mod for Minecraft Java with seed recovery, biome and structure maps, wa
   <img src="assets/tech/java-dark.svg" width="52" height="52" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp; <img src="assets/tech/git.svg" width="52" height="52" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp; <img src="assets/tech/markdown-dark.svg" width="52" height="52" alt="Markdown" title="Markdown" />
 </p>
 
+<p>
+  <img src="assets/pets-readme-commit.png" width="200" alt="The blue pixel pet types git commit as the orange pet pushes a README.md file toward the terminal." />
+</p>
+
 ## GitHub activity
 
 **7 public repos** · **4 total stars**<br />
