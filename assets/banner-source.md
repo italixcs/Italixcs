@@ -16,4 +16,6 @@ Final image: `assets/banner.png`.
 
 The banner uses an original pixel wordmark, graphite terminal frame, and two illustrated pets based on the supplied blue-robot and orange-critter references. The prompt and response are decorative terminal copy. The editable SVG embeds the sprite and the README uses a static PNG export.
 
-The toolbox SVGs are from [Skill Icons](https://github.com/tandpfun/skill-icons) under the [bundled MIT notice](../licenses/skill-icons.txt). Java was added for Seed Atlas. The README statistics were calculated from the [public repositories endpoint](https://api.github.com/users/italixcs/repos?per_page=100) on 18 November 2026.
+The language and development-tool SVGs are from [Skill Icons](https://github.com/tandpfun/skill-icons) under the [bundled MIT notice](../licenses/skill-icons.txt). Java was added for Seed Atlas. The README statistics were calculated from the [public repositories endpoint](https://api.github.com/users/italixcs/repos?per_page=100) on 18 November 2026.
+
+The ChatGPT and Codex tiles use brand glyphs sourced from [Lobe Icons](https://github.com/lobehub/lobe-icons/tree/34270bc208d7122778dc00b30bd460f97ea03216/packages/static-svg/icons) with the [bundled MIT notice](../licenses/lobe-icons.txt). The marks identify the tools in the profile.

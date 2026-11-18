@@ -41,17 +41,17 @@ A Fabric mod for Minecraft Java with seed recovery, biome and structure maps, wa
 
 ## Toolbox
 
-<a href="https://chatgpt.com/"><img src="assets/badge-chatgpt.svg" width="112" height="31" alt="ChatGPT" /></a>
-<a href="https://github.com/openai/codex"><img src="assets/badge-codex.svg" width="96" height="31" alt="Codex" /></a>
-<a href="https://github.com/italixcs?tab=repositories"><img src="assets/badge-github.svg" width="106" height="31" alt="Italixcs on GitHub" /></a>
+<p>
+  <a href="https://chatgpt.com/"><img src="assets/tech/chatgpt-dark.svg" width="52" height="52" alt="ChatGPT" title="ChatGPT" /></a>&nbsp;&nbsp;&nbsp; <a href="https://github.com/openai/codex"><img src="assets/tech/codex-dark.svg" width="52" height="52" alt="Codex" title="Codex" /></a>&nbsp;&nbsp;&nbsp; <a href="https://github.com/italixcs?tab=repositories"><img src="assets/tech/github-dark.svg" width="52" height="52" alt="GitHub" title="GitHub" /></a>
+</p>
 
-<img src="assets/tech/python-dark.svg" width="38" height="38" alt="Python" title="Python" />
-<img src="assets/tech/typescript.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
-<img src="assets/tech/javascript.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />
-<img src="assets/tech/java-dark.svg" width="38" height="38" alt="Java" title="Java" />
-<img src="assets/tech/git.svg" width="38" height="38" alt="Git" title="Git" />
-<img src="assets/tech/github-dark.svg" width="38" height="38" alt="GitHub" title="GitHub" />
-<img src="assets/tech/markdown-dark.svg" width="38" height="38" alt="Markdown" title="Markdown" />
+<p>
+  <img src="assets/tech/python-dark.svg" width="52" height="52" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp; <img src="assets/tech/typescript.svg" width="52" height="52" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp; <img src="assets/tech/javascript.svg" width="52" height="52" alt="JavaScript" title="JavaScript" />
+</p>
+
+<p>
+  <img src="assets/tech/java-dark.svg" width="52" height="52" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp; <img src="assets/tech/git.svg" width="52" height="52" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp; <img src="assets/tech/markdown-dark.svg" width="52" height="52" alt="Markdown" title="Markdown" />
+</p>
 
 ## GitHub activity
 
