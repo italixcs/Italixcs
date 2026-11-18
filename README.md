@@ -1,37 +1,65 @@
-<p align="center">
-  <img src="assets/banner.png" alt="italixcs — skills and tools for AI agents, with an angled terminal illustrating a coding agent session" width="100%" />
-</p>
-
 # italixcs
 
-**Developer building skills and tools for frontier AI models.**
+![Terminal banner with a pixel-art Italixcs wordmark, a blue robot, and an orange pixel pet](assets/terminal-profile.png)
 
-I’m focused on reusable agent skills, project memory, and workflows for writing and study. I want to build useful tools, document how they work, and keep improving them in public.
+I build open-source skills for AI coding agents and tools for development, documentation, and Minecraft.
 
-## Currently building
+<a href="#projects"><img src="assets/badges/terminal-projects.svg" height="34" alt="Projects" /></a>
+<a href="#toolbox"><img src="assets/badges/terminal-toolbox.svg" height="34" alt="Toolbox" /></a>
+<a href="#github-activity"><img src="assets/badges/terminal-activity.svg" height="34" alt="GitHub activity" /></a>
+
+## Projects
 
 ### [Repo Cleaner](https://github.com/italixcs/Repo-cleaner)
 
-A skill that helps AI agents improve how a GitHub repository presents its work: the README, examples, installation guides, visuals, and repository metadata.
+An agent skill for improving GitHub READMEs, install guides, and examples. It audits the repository first so the presentation reflects what the project can actually do.
 
 [![Format: Agent Skills](assets/badges/repo-cleaner-format.svg)](https://github.com/italixcs/Repo-cleaner/tree/main/skills/repo-cleaner)
-[![Release: v0.2.1](assets/badges/repo-cleaner-release.svg)](https://github.com/italixcs/Repo-cleaner/releases/tag/v0.2.1)
 [![License: MIT](assets/badges/repo-cleaner-license.svg)](https://github.com/italixcs/Repo-cleaner/blob/main/LICENSE)
 
-It checks claims against the project’s files, flags gaps, and organizes the README around what a reader needs to understand and try the project. You can ask for an audit first or have it implement the changes.
+[Install](https://github.com/italixcs/Repo-cleaner/blob/main/docs/installation.md) · [Usage](https://github.com/italixcs/Repo-cleaner/blob/main/docs/usage.md) · [Releases](https://github.com/italixcs/Repo-cleaner/releases)
 
-The latest update adds guidance for using GitHub callouts sparingly, so useful details are easier to spot without cluttering the README.
+<details>
+<summary>See the Seed Atlas README before and after</summary>
 
-[Repository](https://github.com/italixcs/Repo-cleaner) · [Installation](https://github.com/italixcs/Repo-cleaner/blob/main/docs/installation.md) · [Usage](https://github.com/italixcs/Repo-cleaner/blob/main/docs/usage.md) · [Latest release](https://github.com/italixcs/Repo-cleaner/releases/latest)
+[![Seed Atlas README before and after, showing the redesigned banner, badges, and navigation on the right](assets/examples/seedatlas-comparison.png)](https://github.com/italixcs/Repo-cleaner/blob/main/docs/examples/seedatlas.md)
 
-### See it in practice
+*Static, AI-composited comparison based on screenshots. The slider handle is decorative.*
 
-[![Seed Atlas README before and after using Repo Cleaner: the original text-led README beside the redesigned banner, badges, navigation, and installation section](assets/examples/seedatlas-comparison.png)](https://github.com/italixcs/Repo-cleaner/blob/main/docs/examples/seedatlas.md)
+</details>
 
-*Seed Atlas, my Minecraft Java mod. Static, AI-composited comparison from supplied screenshots; the center handle is decorative.*
+### More agent skills
 
-[Before-and-after details](https://github.com/italixcs/Repo-cleaner/blob/main/docs/examples/seedatlas.md) · [Audit example](https://github.com/italixcs/Repo-cleaner/blob/main/docs/examples/notes-app-audit.md) · [Validation](https://github.com/italixcs/Repo-cleaner/blob/main/docs/validation.md)
+- [**Project Memory**](https://github.com/italixcs/Project-memory) helps agents recover project decisions, pending work, and verified context across sessions. [Install](https://github.com/italixcs/Project-memory/blob/main/docs/compatibility.md).
+- [**Doc Designer**](https://github.com/italixcs/Doc-Designer) guides agents through designing and reviewing Word documents and PDFs. [Skill instructions](https://github.com/italixcs/Doc-Designer/blob/main/skills/doc-designer/SKILL.md).
+- [**Skill Development**](https://github.com/italixcs/Skill-development) gives agents a workflow for researching, testing, and preparing skills for release. [Install](https://github.com/italixcs/Skill-development/blob/main/docs/installation.md).
+- [**Personal README**](https://github.com/italixcs/Personal-README-skill) creates and audits GitHub profile READMEs around a developer’s public work.
 
----
+### [Seed Atlas](https://github.com/italixcs/seedatlas)
 
-[All repositories](https://github.com/italixcs?tab=repositories) · [GitHub activity](https://github.com/italixcs?tab=overview)
+A Fabric mod for Minecraft Java with seed recovery, biome and structure maps, waypoints, and ore predictions. [Downloads](https://github.com/italixcs/seedatlas/releases) · [Usage](https://github.com/italixcs/seedatlas/blob/main/docs/usage.md).
+
+## Toolbox
+
+<p>
+  <a href="https://chatgpt.com/"><img src="assets/tech/chatgpt-dark.svg" width="52" height="52" alt="ChatGPT" title="ChatGPT" /></a>&nbsp;&nbsp;&nbsp; <a href="https://github.com/openai/codex"><img src="assets/tech/codex-dark.svg" width="52" height="52" alt="Codex" title="Codex" /></a>&nbsp;&nbsp;&nbsp; <a href="https://github.com/italixcs?tab=repositories"><img src="assets/tech/github-dark.svg" width="52" height="52" alt="GitHub" title="GitHub" /></a>
+</p>
+
+<p>
+  <img src="assets/tech/python-dark.svg" width="52" height="52" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp; <img src="assets/tech/typescript.svg" width="52" height="52" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp; <img src="assets/tech/javascript.svg" width="52" height="52" alt="JavaScript" title="JavaScript" />
+</p>
+
+<p>
+  <img src="assets/tech/java-dark.svg" width="52" height="52" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp; <img src="assets/tech/git.svg" width="52" height="52" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp; <img src="assets/tech/markdown-dark.svg" width="52" height="52" alt="Markdown" title="Markdown" />
+</p>
+
+<p>
+  <img src="assets/pets-readme-commit.png" width="200" alt="The blue pixel pet types git commit as the orange pet pushes a README.md file toward the terminal." />
+</p>
+
+## GitHub activity
+
+**7 public repos** · **4 total stars**<br />
+Public GitHub snapshot from 18 November 2026.
+
+[GitHub contributions](https://github.com/italixcs?tab=overview) · [All repositories](https://github.com/italixcs?tab=repositories)
